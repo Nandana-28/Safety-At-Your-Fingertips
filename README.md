@@ -56,10 +56,10 @@ Future updates will enable the website to send live location data not only to em
 # <h2>Safe Route Identification:
 The website plans to improve its safe route detection feature by integrating more advanced crowd-sensing data and offering enhanced notifications when users stray from their path.
 
-**<h2>Audio Recognition for Chatbot:<h2>**
+# <h2>Audio Recognition for Chatbot:
 The chatbot will soon include an advanced audio recognition feature to detect distress sounds more accurately.
 
-**<h2>Full Implementation of OpenAI API:**
+# <h2>Full Implementation of OpenAI API:
 We are working on fully implementing OpenAI’s API for the chatbot to enhance its functionality.
 
 # <h2>Multi-Language Support:
