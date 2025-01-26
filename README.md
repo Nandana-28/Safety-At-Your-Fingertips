@@ -53,10 +53,10 @@ The website can record audio and video for evidence. These media files can be ke
 Real-Time Location Sharing to Emergency Contacts & Police:
 Future updates will enable the website to send live location data not only to emergency contacts but also to the nearest police station for immediate assistance.
 
-**<h2>Safe Route Identification:**
+**<h2>Safe Route Identification:<h2>**
 The website plans to improve its safe route detection feature by integrating more advanced crowd-sensing data and offering enhanced notifications when users stray from their path.
 
-**<h2>Audio Recognition for Chatbot:**
+**<h2>Audio Recognition for Chatbot:<h2>**
 The chatbot will soon include an advanced audio recognition feature to detect distress sounds more accurately.
 
 **<h2>Full Implementation of OpenAI API:**
