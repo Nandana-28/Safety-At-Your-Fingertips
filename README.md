@@ -36,14 +36,18 @@ The website currently supports English, Malayalam, and Hindi, with plans to exte
 
 # <h2>Audio/Video Evidence:
 The website can record audio and video for evidence. These media files can be kept for reference in case of emergency.
-# <h2>HomePage
+# <h2>Home Page
 ![image](https://github.com/user-attachments/assets/c440369a-3622-4129-84da-21ce702933d2)
-# <h2>SignUp
+# <h2>Sign Up
 ![image](https://github.com/user-attachments/assets/3f7244f9-3711-48aa-9a5e-6676a83057a5)
-# <h2>LogIn
+# <h2>Log In
 ![image](https://github.com/user-attachments/assets/8e939162-aa6b-4623-8d6d-4dc10123d773)
-# <h2>LoggedIn
+# <h2>Logged In
 ![image](https://github.com/user-attachments/assets/dd32e372-c817-4341-a8d6-b1afc89e51b0)
+# <h2>Location Tracker
+
+# <h2>Audio and Video Recording
+![image](https://github.com/user-attachments/assets/7d0bdce3-1703-4da5-9e21-bf4bb3c7d8bf)
 
 # <h2>Future Enhancements
 Real-Time Location Sharing to Emergency Contacts & Police:
