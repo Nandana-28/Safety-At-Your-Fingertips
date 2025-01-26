@@ -53,7 +53,7 @@ The website can record audio and video for evidence. These media files can be ke
 Real-Time Location Sharing to Emergency Contacts & Police:
 Future updates will enable the website to send live location data not only to emergency contacts but also to the nearest police station for immediate assistance.
 
-**Safe Route Identification:**
+# <h2>Safe Route Identification:
 The website plans to improve its safe route detection feature by integrating more advanced crowd-sensing data and offering enhanced notifications when users stray from their path.
 
 **<h2>Audio Recognition for Chatbot:<h2>**
@@ -62,28 +62,28 @@ The chatbot will soon include an advanced audio recognition feature to detect di
 **<h2>Full Implementation of OpenAI API:**
 We are working on fully implementing OpenAI’s API for the chatbot to enhance its functionality.
 
-**<h2>Multi-Language Support:**
+# <h2>Multi-Language Support:
 We aim to expand the website’s language options to make it accessible to a broader, global audience.
 
-**<h2>Cloud-Based Audio/Video Evidence:**
+# <h2>Cloud-Based Audio/Video Evidence:
 The website currently records audio and video for evidence. In future versions, we plan to allow users to upload this evidence to a cloud platform for safekeeping.
 
 # <h2>AI Features
 Scream Recognition:
 Using a speech model and TensorFlow, the website can recognize distress sounds such as screams and automatically trigger the SOS function.
 
-**<h2>Chatbot:**
+# <h2>Chatbot:
 The chatbot is powered by Google API and OpenAI API. While OpenAI API integration is still a work in progress, we plan to complete this feature in the near future.
 
-**<h2>Safe Route Detection:**
+# <h2>Safe Route Detection:
 The website uses Leaflet API and Twilio for safe route detection, helping users find the safest path to their destination and alerting them if they deviate from it.
 
-**<h2>Real-Time Location Tracker:**
+# <h2>Real-Time Location Tracker:
 The real-time location tracker utilizes the Leaflet API to accurately share the user's location with emergency contacts.
 
 # <h2>Challenges
-**h2>Geofencing and Crime Data:**
+# <h2>Geofencing and Crime Data:
 A challenge faced was the inability to obtain necessary APIs for crime data from the Indian government, which limits the ability to use geofencing to detect dangerous areas based on crime statistics.
 
-**<h2>Translation for Non-English Speakers:**
+# <h2>Translation for Non-English Speakers:
 We attempted to implement a translation feature using the Azure AI Translator API to help users who do not speak English report incidents. This feature is still a work in progress and aims to translate native languages into English for incident reporting.
