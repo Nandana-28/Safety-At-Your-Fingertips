@@ -37,16 +37,16 @@ The website currently supports English, Malayalam, and Hindi, with plans to exte
 # <h2>Audio/Video Evidence:
 The website can record audio and video for evidence. These media files can be kept for reference in case of emergency.
 
-**<h2>HomePage**
+# <h2>HomePage
 ![image](https://github.com/user-attachments/assets/c440369a-3622-4129-84da-21ce702933d2)
 
-**<h2>SignUp**
+# <h2>SignUp
 ![image](https://github.com/user-attachments/assets/3f7244f9-3711-48aa-9a5e-6676a83057a5)
 
-**<h2>LogIn**
+# <h2>LogIn
 ![image](https://github.com/user-attachments/assets/8e939162-aa6b-4623-8d6d-4dc10123d773)
 
-**<h2>LoggedIn**
+# <h2>LoggedIn
 ![image](https://github.com/user-attachments/assets/dd32e372-c817-4341-a8d6-b1afc89e51b0)
 
 # <h2>Future Enhancements
