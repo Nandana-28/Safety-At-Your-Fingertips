@@ -1,12 +1,12 @@
 # Safety-At-Your-Fingertips
 A platform designed to enhance women’s safety through real-time alerts, emergency features, and location tracking. Empowering women with the tools to stay secure at all times.
 
-#Problem Statement
+# Problem Statement
 Personal safety has become an increasing concern, particularly for individuals who may be at risk of harassment, assault, or other emergencies. In these situations, immediate help is crucial, but many people struggle to reach out for assistance due to factors like physical limitations, fear, or a lack of awareness. Furthermore, language barriers and technology issues can prevent effective communication during crises. Many existing safety tools do not provide real-time location tracking, distress sound detection, or support for multiple languages, making them less effective in urgent situations.
 
 Our challenge was to create a simple yet comprehensive solution that enables individuals to act swiftly in emergencies. This solution needed to allow users to alert their emergency contacts, detect distress signals, and offer real-time location tracking. It had to be user-friendly, inclusive, and accessible, regardless of the user's technological skills or language.
 
-#Innovative Idea and Solution
+# Innovative Idea and Solution
 To solve this problem, we developed Safety-At-Your-Fingertips, a gender-neutral website that ensures the safety of individuals. Safety-At-Your-Fingertips integrates multiple innovative features that offer immediate assistance during emergencies, such as distress sound detection, real-time location sharing, and emergency alerts. Our platform is designed to be intuitive, accessible, and supportive, empowering users to get the help they need quickly and effectively.
 
 # Our Innovative Approach
